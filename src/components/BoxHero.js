@@ -1,3 +1,4 @@
+//RADIUM
 import React from 'react';
 
 const BoxHero = () => {
