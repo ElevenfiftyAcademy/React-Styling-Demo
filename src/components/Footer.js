@@ -1,4 +1,3 @@
-//MATERIAL UI
 import React from 'react';
 
 class Footer extends React.Component {
@@ -22,7 +21,7 @@ class Footer extends React.Component {
           </li>
           <li className="contactSupportIcon" label="SUPPORT">SUPPORT
           </li>
-          <li className="buildIcon" label="Maintainance">MAINTAINANCE
+          <li className="buildIcon" label="MAINTAINANCE">MAINTAINANCE
           </li>
           <li className="permContactCalendarIcon" label="CONTACT">CONTACT
           </li>
